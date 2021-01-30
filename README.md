@@ -1,6 +1,7 @@
 # WorldSkills-India-Problem-Statement
 
-This repo contains a LABVIEW file. In that file, I have designed a digital device which counts till 12 and as soon as it reaches 12, the device will trigger a buzzer and device will reset itself. I made the Mealy State Graph and using the concept of State Machine, i executed the operation.
+This repo contains a LABVIEW file. In that file, I have designed a digital device which counts till 12 and as soon as it reaches 12, the device will trigger a buzzer and device will reset itself. I made the Mealy State Graph and using the concept of State Machine, i executed the operation. The device is a sequential circuit, and to store the previous state, I have used J-K Flipflops. 
+
 
 To use the file, download LABVIEW.
 
