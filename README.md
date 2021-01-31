@@ -6,3 +6,7 @@ This repo contains a LABVIEW file. In that file, I have designed a digital devic
 To use the file, download LABVIEW.
 
 You can simply download this file and use it directly.
+
+#What you can do?
+
+I have made the digital system using J-K Flip Flop. You can construct a digital system using other flip flops such as D flip flop, t flip flop etc. 
